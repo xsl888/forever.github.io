@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的博客</title>
+    <link>https://forever.github.io/post/</link>
+    <description>Recent content in Posts on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dco@runningstream.net (RunningStream)</managingEditor>
+    <webMaster>dco@runningstream.net (RunningStream)</webMaster>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://forever.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客</title>
+      <link>https://forever.github.io/post/myfirst/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      <author>dco@runningstream.net (RunningStream)</author>
+      <guid>https://forever.github.io/post/myfirst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
